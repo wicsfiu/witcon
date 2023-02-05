@@ -72,7 +72,7 @@ export const featuresData = {
     {
       image: Feature2Img,
       bgImage: Feature2BgImg,
-      title: 'Init',
+      title: 'Init @ FIU',
       //description:
         //'Women in Cyber Security',
       linkText: 'Learn more',
