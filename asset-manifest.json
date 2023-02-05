@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/witcon/static/css/main.e603bf56.css",
-    "main.js": "/witcon/static/js/main.04883502.js",
+    "main.css": "/witcon/static/css/main.8aaeb428.css",
+    "main.js": "/witcon/static/js/main.b5941238.js",
     "static/media/hero-img.png": "/witcon/static/media/hero-img.d952abb5d416847929cd.png",
     "static/media/about.png": "/witcon/static/media/about.0948897c98fb9f1b8d14.png",
     "static/media/feature1.png": "/witcon/static/media/feature1.3b8b6ca4cdb2a52b0d29.png",
@@ -12,15 +12,15 @@
     "static/media/feature3_bg.png": "/witcon/static/media/feature3_bg.af1b643bb396ca23a898.png",
     "static/media/feature2_bg.png": "/witcon/static/media/feature2_bg.0a8d3897ee5452cb91fc.png",
     "static/media/avatar3.png": "/witcon/static/media/avatar3.734365fc8c9d2c6688a4.png",
+    "static/media/feature2.png": "/witcon/static/media/feature2.f11d01e9f1b809481c34.png",
     "static/media/avatar2.png": "/witcon/static/media/avatar2.e29eaeecd12d7e963fe7.png",
     "static/media/avatar1.png": "/witcon/static/media/avatar1.1821366bd58f635d4c90.png",
-    "static/media/feature2.png": "/witcon/static/media/feature2.93c9fd36ecba9f6397ed.png",
     "index.html": "/witcon/index.html",
-    "main.e603bf56.css.map": "/witcon/static/css/main.e603bf56.css.map",
-    "main.04883502.js.map": "/witcon/static/js/main.04883502.js.map"
+    "main.8aaeb428.css.map": "/witcon/static/css/main.8aaeb428.css.map",
+    "main.b5941238.js.map": "/witcon/static/js/main.b5941238.js.map"
   },
   "entrypoints": [
-    "static/css/main.e603bf56.css",
-    "static/js/main.04883502.js"
+    "static/css/main.8aaeb428.css",
+    "static/js/main.b5941238.js"
   ]
 }
