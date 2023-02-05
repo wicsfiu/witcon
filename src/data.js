@@ -21,7 +21,7 @@ import Feature4BgImg from '../src/assets/img/features/feature4_bg.png';
 export const navigationData = [
   {
     name: 'About',
-    href: '#',
+    href: '/About',
   },
   {
     name: 'Orgs',
@@ -33,7 +33,7 @@ export const navigationData = [
   },
   {
     name: 'Signup',
-    href: '#',
+    href: 'https://lu.ma/event/evt-JD8DRxzzE3l3PCk',
   },
 ];
 

@@ -41,9 +41,12 @@ const Header = () => {
             <NavMobile />
           </div>
 
+          <a href="https://lu.ma/event/evt-JD8DRxzzE3l3PCk"> 
           <button className='btn btn-quaternary flex items-center gap-x-[20px] group'>
             Sign Up
-          </button>
+            </button>
+            </a>
+          
 
           {/* nav trigger btn / only shows on mobile screens */}
           <div

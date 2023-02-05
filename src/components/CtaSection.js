@@ -24,21 +24,17 @@ const CtaSection = () => {
           </div>
           {/* buttons */}
           <div className='flex flex-col xl:flex-row gap-y-4 gap-x-[30px]'>
-            <button
-              className='btn btn-secondary'
-              data-aos='fade-up'
-              data-aos-delay='300'
-            >
-              {btnText1}
-            </button>
+            {/*deleted button 1*/}
+            <a href="https://lu.ma/event/evt-JD8DRxzzE3l3PCk"> 
             <button
               className='btn btn-quaternary flex items-center gap-x-[20px] group'
               data-aos='fade-up'
-              data-aos-delay='400'
+              data-aos-delay='300'
             >
               {btnText2}
               <BsArrowRight className='text-2xl text-accent-primary group-hover:text-white transition' />
             </button>
+            </a>
           </div>
         </div>
       </div>

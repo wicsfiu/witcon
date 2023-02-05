@@ -32,6 +32,12 @@ const Hero = () => {
             >
               {subtitle}
             </p>
+            <a
+  href="https://lu.ma/event/evt-JD8DRxzzE3l3PCk"
+  class="luma-checkout--button"
+  data-luma-action="checkout"
+  data-luma-event-id="evt-JD8DRxzzE3l3PCk"
+>
             <button
               className='btn btn-primary mb-8 xl:mb-0'
               data-aos='fade-down'
@@ -39,6 +45,8 @@ const Hero = () => {
             >
               {btnText}
             </button>
+            </a>
+            <script id="luma-checkout" src="https://embed.lu.ma/checkout-button.js"></script>
           </div>
           {/* image */}
           <div
