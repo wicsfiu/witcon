@@ -19,7 +19,7 @@ import Feature3BgImg from '../src/assets/img/features/feature3_bg.png';
 import Feature4BgImg from '../src/assets/img/features/feature4_bg.png';
 
 export const navigationData = [
-  {
+  /*{
     name: 'About',
     href: '/About',
   },
@@ -35,6 +35,7 @@ export const navigationData = [
     name: 'Signup',
     href: 'https://lu.ma/event/evt-JD8DRxzzE3l3PCk',
   },
+  */
 ];
 
 export const heroData = {
@@ -76,7 +77,7 @@ export const featuresData = {
       //description:
         //'Women in Cyber Security',
       linkText: 'Learn more',
-      href:'https://linktr.ee/fiuwicys',
+      href:'https://weareinit.webflow.io/',
       delay: '600',
     },
     {
@@ -142,7 +143,7 @@ export const footerData = {
   address: 'WiTCON @ FIU ',
   email: 'wics@fiu.edu',
   list1: [
-    {
+    /*{
       name: 'About',
       href: 'components.About',
     },
@@ -154,6 +155,7 @@ export const footerData = {
       name: 'Info',
       href: '#Testimonials',
     },
+    */
   ],
   list2: [
   ],
