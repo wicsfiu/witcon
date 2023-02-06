@@ -20,6 +20,7 @@ import Feature4BgImg from '../src/assets/img/features/feature4_bg.png';
 
 export const navigationData = [
   /*{
+    removed for less clutter
     name: 'About',
     href: '/About',
   },
