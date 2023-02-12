@@ -43,7 +43,7 @@ export const heroData = {
   title: ` Welcome to WiTCON!`,
   subtitle:
     'Women in Technology Conference 2023 @ FIU',
-  btnText: 'Learn More',
+  btnText: 'Register!',
   image: HeroImage,
 };
 
@@ -51,7 +51,7 @@ export const aboutData = {
   image: AboutImg,
   title: 'Register now!',
   subtitle:
-    'Witcon will be held the last week of March 2023 at FIU. Register now to stay up to date with event details such as panels, workshops, and having your resume seen by our sponsors',
+    'Witcon will be held on March 24th 2023 at FIU. Register now to stay up to date with event details such as panels, workshops, and having your resume seen by our sponsors',
     //add another register button
     //btnText: 'Learn More',
 };

@@ -1,7 +1,7 @@
 import React from 'react';
 
 // import navigation data
-import { navigationData } from '../data';
+/*import { navigationData } from '../data';
 
 const NavMobile = () => {
   return (
@@ -20,3 +20,4 @@ const NavMobile = () => {
 };
 
 export default NavMobile;
+*/

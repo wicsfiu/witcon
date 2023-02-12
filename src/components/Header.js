@@ -41,9 +41,9 @@ const Header = () => {
             <NavMobile />
           </div>
 
-          <a href="https://lu.ma/event/evt-JD8DRxzzE3l3PCk"> 
+          <a href="https://drive.google.com/file/d/14JFPKxTSfKw5bQbzGI4ygzGsebcOrEP5/view?usp=sharing"> 
           <button className='btn btn-quaternary flex items-center gap-x-[20px] group'>
-            Sign Up
+            Event Schedule
             </button>
             </a>
           
@@ -53,7 +53,7 @@ const Header = () => {
             onClick={() => setNavMobile(!navMobile)}
             className='text-2xl text-primary cursor-pointer lg:hidden'
           >
-            <FaBars />
+            
           </div>
         </div>
       </div>
